@@ -101,7 +101,7 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/67883256?v=4"><br><sub>HeannaReis</sub>](https://github.com/Heannareis) |
+| [<img src="https://avatars3.githubusercontent.com/u/67883256?v=4" width="110" height="110"><br><sub>HeannaReis</sub>](https://github.com/Heannareis) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                             [Linkedin](https://www.linkedin.com/in/joel-heanna-reis/)                                             |
 
