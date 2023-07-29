@@ -101,10 +101,10 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
+| [<img src="https://avatars.githubusercontent.com/u/67883256?v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/Heannareis) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/felipe-aguiar-exe)                                             |
+|                                             [Linkedin](https://www.linkedin.com/in/joel-heanna-reis/)                                             |
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Joel](https://github.com/HeannaReis)
