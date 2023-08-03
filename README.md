@@ -27,11 +27,11 @@
       alt="GitHub license" 
       src="https://img.shields.io/github/license/felipeAguiarCode/angular-santander-home-clone?color=E31918"
     >
-  </p> 
+  </p>  
 
 <div align="center">
   	<a href="#">
-      <img src=".github/assets/preview.png" width="400" alt="preview" />
+      <img src=".github/assets/telaFinal.png" width="400" alt="preview" />
   	</a>
 </div>
 
@@ -39,21 +39,21 @@
   <p align="center">
       A Clone From Santander Card home page with Angular
     <br />
-    <a 
+    <a
       href="## Usage">
       <strong>Navigate Live Demo Now »</strong>
     </a>
     <br />
     <br />
-    <a 
-      href="https://github.com/felipeAguiarCode/
-		angular-santander-home-clone/issues">
+    <a
+      href="https://github.com/HeannaReis/
+      Angular-SantanderDevWeek2023/issues">
       Report Bug
     </a>
     ·
-    <a 
-      href="https://github.com/felipeAguiarCode/
-			angular-santander-home-clone/issues/new">
+    <a
+      href="https://github.com/HeannaReis/
+      Angular-SantanderDevWeek2023/issues/new">
       Request Feature
     </a>
   </p>
@@ -107,4 +107,6 @@ Runs the app in the development mode.<br/>
 
 ---
 
-⌨️ com 💜 por [Joel](https://github.com/HeannaReis)
+⌨ by [HeannaReis](https://github.com/HeannaReis)
+
+O Projeto base foi disponibilizdo na live da DIO no [Youtube](https://www.youtube.com/watch?v=ZGTzsRuh464&t=3908s), Pelo desenvolvedor [felipeAguiarCode](https://github.com/felipeAguiarCode)
