@@ -46,14 +46,12 @@
     <br />
     <br />
     <a
-      href="https://github.com/HeannaReis/
-      Angular-SantanderDevWeek2023/issues">
+      href="https://github.com/HeannaReis/Angular-SantanderDevWeek2023/issues">
       Report Bug
     </a>
     ·
     <a
-      href="https://github.com/HeannaReis/
-      Angular-SantanderDevWeek2023/issues/new">
+      href="https://github.com/HeannaReis/Angular-SantanderDevWeek2023/issues/new">
       Request Feature
     </a>
   </p>
